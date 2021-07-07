@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import streamlit.components.v1 as components
 
-
+st.beta_set_page_config(page_title = "App", page_icon = ":wine_glass:")
 rfc_model = pickle.load(open('rfc_model.pkl','rb'))
 def classify(num):
     if num==1:
