@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/vanshhhhh">
-    <img src="images/redwine_image.jpg" alt="Logo">
+    <img src="images/redwine.jpg" alt="Logo">
 
     
   </a>
