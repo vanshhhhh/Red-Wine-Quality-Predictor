@@ -1,4 +1,5 @@
 # Red-Wine-Quality-Predictor
+![alt text](https://github.com/vanshhhhh/Red-Wine-Quality-Predictor/blob/main/images/redwine.jpg)
 The objective of this project is to use Machine Learning to predict the red wine quality using the wine properties such as Fixed Acidity, Volatile Acidity, Citric Sugar, Residual Sugar, Chlorides, Free Sulphur Dioxide, Total Sulphur Dioxide, Density, pH, Sulphates and Alcohol.
 
 # Context
