@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/vanshhhhh">
-    <img src="images/redwine_image.jpg" alt="Logo" width="420" height="420">
+    <img src="images/redwine_image.jpg" alt="Logo">
 
     
   </a>
