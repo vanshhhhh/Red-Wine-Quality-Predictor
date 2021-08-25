@@ -6,9 +6,10 @@
 
     
   </a>
+</p>
 
-  <h1 align="center">Red Wine Quality Predictor</h1>
-
+# Red Wine Quality Predictor
+<p>
   <p align="center"> 
     <br />
     <a href="https://redwine-quality-predictor.herokuapp.com/"><strong>Visit the website »</strong></a>
